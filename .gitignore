@@ -1,0 +1,25 @@
+# 忽略配置文件（保护隐私）
+login_config.json
+email_config.json
+final_config.json
+load_config.json
+
+# 
+
+# 忽略打包生成的文件夹
+build/
+dist/
+history/
+output_exe/login_config.json
+output_exe/email_config.json
+output_exe/final_config.json
+output/load_config.json
+output/SHU校园网助手.exe
+
+*.spec
+
+# 忽略Python缓存和环境
+__pycache__/
+*.pyc
+.venv/
+env/
