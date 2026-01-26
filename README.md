@@ -17,7 +17,7 @@
 ##  使用步骤
 
 ### 1. 下载与运行
-1.  在右侧 **Releases** 页面下载最新版本的 `SHU校园网助手.exe`。
+1.  在右侧 **Releases** 页面下载最新版本的 `SHU校园网助手.exe`：[最新版本下载](https://github.com/labourer-bobo/SHU-Campus-Net-Helper/releases/latest)
 2.  双击运行，程序会自动隐藏到右下角系统托盘（绿色小方块图标）。
 
 ### 2. 初始化配置
