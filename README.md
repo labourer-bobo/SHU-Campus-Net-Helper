@@ -59,6 +59,9 @@ C:\Users\你的用户名\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\S
 
 ---
 
+## linux版
+我看到有fork工作做了linux版，有需要linux版本的可以试用这个：[linux版](https://github.com/ACGNworld/SHU-Campus-Net-Helper-Linux)
+
 ##  开发者指南
 
 ### 环境依赖
@@ -75,5 +78,4 @@ python auto_net_v0.2.0.py
 pyinstaller -F -w --distpath output_exe --name "SHU校园网助手" SHU_net_helper.py
 ```
 
-## linux版
-我看到有fork工作做了linux版，有需要linux版本的可以试用这个：[linux版](https://github.com/ACGNworld/SHU-Campus-Net-Helper-Linux)
+
